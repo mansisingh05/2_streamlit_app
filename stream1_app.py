@@ -1,5 +1,5 @@
 import streamlit
-streamlit.title("zen's amazing athleisure catalog")
+streamlit.title("zens amazing athleisure catalog")
 
 import snowflake.connector
 
